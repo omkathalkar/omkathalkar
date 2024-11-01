@@ -32,13 +32,14 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  linkedin         : "https://www.linkedin.com/in/om-kathalkar/"
+  googlescholar    : "https://scholar.google.com/citations?user=a_lzSPoAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0007-0884-715X"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Om-Kathalkar-2"
   scopus           : # URL
+  openreview       : "https://openreview.net/profile?id=~Om_Kathalkar1"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -58,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
