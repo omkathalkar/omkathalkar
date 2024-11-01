@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "👋🏻 Hello there, I'm Om!"
+title: "Om Kathalkar"
 author_profile: false
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# lets see how it works
-## om kathalkar
-### om kathalkar
+![om]{/images/IMG_6808.jpeg}{: .align-right width="300px"}
+## lets see how it works
+## lets see how it works
+## lets see how it works
