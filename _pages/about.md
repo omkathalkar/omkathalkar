@@ -22,12 +22,13 @@ redirect_from:
   St. Vincent Pallotti College of Engineering and Technology, Nagpur  
   CGPA: 8.83/10.0
 
-## Research Interests
-- Computer Vision
-- Deep Learning
-- Natural Language Processing
-- Internet of Things (IoT)
-- Environmental Sensing
+## Research
+My research interests encompass various domains, including Computer Vision, Computational Photography, Generative AI, Environmental Sensing (Air Pollution Monitoring), Machine Learning, and the Internet of Things (IoT).
+
+## Teaching
+In addition to my research pursuits, I am passionate about education and mentoring. I actively mentor at TalentSprint, where I contribute to the AI and MLOps Programme in collaboration with IISc Bangalore and TalentSprint, as well as the AI/ML Programme in collaboration with IIIT Hyderabad and TalentSprint. In this role, I deliver lectures on fundamental concepts in Machine Learning and Deep Learning to industry professionals, guiding them through their project work.
+
+Apart from this, I am an enthusiast of sports, particularly Badminton and Chess. Additionally, I enjoy engaging in cycling and running as part of my recreational pursuits.
 
 ## Publications
 1. **CV and IoT-based Remote Triggered Labs: Use Case of Conservation of Mechanical Energy**  
