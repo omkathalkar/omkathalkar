@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Om Kathalkar"
 author_profile: true
 redirect_from: 
   - /about/
