@@ -24,7 +24,7 @@ author:
   avatar           : "IMG_6808.jpeg"
   name             : "Om Rajendra Kathalkar"
   bio              : "Applied AI Researcher"
-  pronouns         : "He/Him"
+  pronouns         : # "He/Him"
   location         : "Hyderabad, India"
   employer         : "IIIT Hyderabad"
   uri              : # URL
