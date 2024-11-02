@@ -14,14 +14,24 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
+
+author:
+  email            : "om.kathalkar@research.iiit.ac.in"
+  # Academic websites
+  arxiv            : # URL - Update with the correct link to your profile
+  linkedin         : "https://www.linkedin.com/in/om-kathalkar/"
+  googlescholar    : "https://scholar.google.com/citations?user=a_lzSPoAAAAJ&hl=en"
+  orcid            : "https://orcid.org/0009-0007-0884-715X"
+  researchgate     : "https://www.researchgate.net/profile/Om-Kathalkar-2"
+  openreview       : "https://openreview.net/profile?id=~Om_Kathalkar1"
