@@ -63,23 +63,23 @@ Apart from this, I am an enthusiast of sports, particularly Badminton and Chess.
 
 <div class="text-center">
   <div class="social-links">
-    <a href="mailto:om.kathalkar@research.iiit.ac.in" class="social-link">
-      <i class="fas fa-envelope"></i> 
+    <a href="mailto:om.kathalkar@research.iiit.ac.in" class="social-link email-icon">
+      <i class="fas fa-envelope"></i>
     </a>
-    <a href="https://www.linkedin.com/in/om-kathalkar/" class="social-link">
-      <i class="fab fa-linkedin"></i> 
+    <a href="https://www.linkedin.com/in/om-kathalkar/" class="social-link linkedin-icon">
+      <i class="fab fa-linkedin"></i>
     </a>
-    <a href="https://scholar.google.com/citations?user=a_lzSPoAAAAJ&hl=en" class="social-link">
-      <i class="fas fa-graduation-cap"></i> 
+    <a href="https://scholar.google.com/citations?user=a_lzSPoAAAAJ&hl=en" class="social-link scholar-icon">
+      <i class="fas fa-graduation-cap"></i>
     </a>
-    <a href="https://orcid.org/0009-0007-0884-715X" class="social-link">
-      <i class="fab fa-orcid"></i> 
+    <a href="https://orcid.org/0009-0007-0884-715X" class="social-link orcid-icon">
+      <i class="fab fa-orcid"></i>
     </a>
-    <a href="https://www.researchgate.net/profile/Om-Kathalkar-2" class="social-link">
-      <i class="fab fa-researchgate"></i> 
+    <a href="https://www.researchgate.net/profile/Om-Kathalkar-2" class="social-link researchgate-icon">
+      <i class="fab fa-researchgate"></i>
     </a>
-    <a href="https://openreview.net/profile?id=~Om_Kathalkar1" class="social-link">
-      <i class="fas fa-book-open"></i> 
+    <a href="https://openreview.net/profile?id=~Om_Kathalkar1" class="social-link openreview-icon">
+      <i class="fas fa-book-open"></i>
     </a>
   </div>
 </div>
@@ -89,7 +89,7 @@ Apart from this, I am an enthusiast of sports, particularly Badminton and Chess.
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  gap: 20px;
+  gap: 25px;
   margin-top: 40px;
   margin-bottom: 40px;
 }
@@ -97,22 +97,59 @@ Apart from this, I am an enthusiast of sports, particularly Badminton and Chess.
 .social-link {
   display: inline-flex;
   align-items: center;
-  padding: 8px 16px;
-  background-color: #f8f9fa;
-  border-radius: 20px;
+  justify-content: center;
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
   text-decoration: none;
-  color: #495057;
   transition: all 0.3s ease;
+  font-size: 22px;
 }
 
 .social-link:hover {
-  background-color: #e9ecef;
-  transform: translateY(-2px);
+  transform: translateY(-3px);
   text-decoration: none;
 }
 
-.social-link i {
-  margin-right: 8px;
+/* Email */
+.email-icon {
+  background: #EA4335;
+  color: white;
+}
+
+/* LinkedIn */
+.linkedin-icon {
+  background: #0077B5;
+  color: white;
+}
+
+/* Google Scholar */
+.scholar-icon {
+  background: #4285f4;
+  color: white;
+}
+
+/* ORCID */
+.orcid-icon {
+  background: #A6CE39;
+  color: white;
+}
+
+/* ResearchGate */
+.researchgate-icon {
+  background: #00CCBB;
+  color: white;
+}
+
+/* OpenReview */
+.openreview-icon {
+  background: #B31B1B;
+  color: white;
+}
+
+/* Hover effects */
+.social-link:hover {
+  box-shadow: 0 5px 15px rgba(0,0,0,0.2);
 }
 </style>
 
