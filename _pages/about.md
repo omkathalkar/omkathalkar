@@ -56,25 +56,30 @@ Apart from this, I am an enthusiast of sports, particularly Badminton and Chess.
 - Best Project Award for undergraduate final year project
 - Best Student of the Department, ETC Department, SVPCET, Nagpur
 
+## Technical Skills
+- **Programming**: Python, C++, MATLAB, HTML
+- **Hardware**: Jetson Xavier NX, Raspberry Pi, Arduino, ESP-Series Microcontrollers
+- **Tools**: PyTorch, TensorFlow, OpenCV, CUDA, Django, Scikit-learn, LaTeX
+
 <div class="text-center">
   <div class="social-links">
     <a href="mailto:om.kathalkar@research.iiit.ac.in" class="social-link">
-      <i class="fas fa-envelope"></i> Email
+      <i class="fas fa-envelope"></i> 
     </a>
     <a href="https://www.linkedin.com/in/om-kathalkar/" class="social-link">
-      <i class="fab fa-linkedin"></i> LinkedIn
+      <i class="fab fa-linkedin"></i> 
     </a>
     <a href="https://scholar.google.com/citations?user=a_lzSPoAAAAJ&hl=en" class="social-link">
-      <i class="fas fa-graduation-cap"></i> Google Scholar
+      <i class="fas fa-graduation-cap"></i> 
     </a>
     <a href="https://orcid.org/0009-0007-0884-715X" class="social-link">
-      <i class="fab fa-orcid"></i> ORCID
+      <i class="fab fa-orcid"></i> 
     </a>
     <a href="https://www.researchgate.net/profile/Om-Kathalkar-2" class="social-link">
-      <i class="fab fa-researchgate"></i> ResearchGate
+      <i class="fab fa-researchgate"></i> 
     </a>
     <a href="https://openreview.net/profile?id=~Om_Kathalkar1" class="social-link">
-      <i class="fas fa-book-open"></i> OpenReview
+      <i class="fas fa-book-open"></i> 
     </a>
   </div>
 </div>
@@ -111,7 +116,4 @@ Apart from this, I am an enthusiast of sports, particularly Badminton and Chess.
 }
 </style>
 
-## Technical Skills
-- **Programming**: Python, C++, MATLAB, HTML
-- **Hardware**: Jetson Xavier NX, Raspberry Pi, Arduino, ESP-Series Microcontrollers
-- **Tools**: PyTorch, TensorFlow, OpenCV, CUDA, Django, Scikit-learn, LaTeX
+The best way to reach me is via Email.
