@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Om Kathalkar"
-author_profile: false
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
@@ -11,7 +11,7 @@ redirect_from:
 
 👋 Hi, I'm Om Kathalkar, a Research Assistant at the Signal Processing and Communications Research Centre, IIIT Hyderabad. I'm pursuing research under Prof. Sachin Chaudhari, focusing on the application of Machine Learning and Computer Vision towards smarter Internet of Things.
 
-![om]({{ site.url }}/images/IMG_6808.jpeg){: .align-right width="300px"}
+# ![om]({{ site.url }}/images/IMG_6808.jpeg){: .align-right width="300px"}
  
 ## Education
 - **M.S. in Electronics and Communication Engineering** (2023-Present)  
