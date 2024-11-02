@@ -40,31 +40,4 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-// Add these to main.scss or a custom styles file
-$background-color: #121212;
-$text-color: #e0e0e0;
-$link-color: #bb86fc;
-$code-background-color: #1e1e1e;
-$header-color: #ffffff;
-
-// Adjust any other variables you want to change
-body {
-  background-color: $background-color;
-  color: $text-color;
-}
-
-a {
-  color: $link-color;
-}
-
-code {
-  background-color: $code-background-color;
-  color: $text-color;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  color: $header-color;
-}
-
-// Adjust any other elements as needed
 
