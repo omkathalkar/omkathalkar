@@ -56,6 +56,61 @@ Apart from this, I am an enthusiast of sports, particularly Badminton and Chess.
 - Best Project Award for undergraduate final year project
 - Best Student of the Department, ETC Department, SVPCET, Nagpur
 
+<div class="text-center">
+  <div class="social-links">
+    <a href="mailto:om.kathalkar@research.iiit.ac.in" class="social-link">
+      <i class="fas fa-envelope"></i> Email
+    </a>
+    <a href="https://www.linkedin.com/in/om-kathalkar/" class="social-link">
+      <i class="fab fa-linkedin"></i> LinkedIn
+    </a>
+    <a href="https://scholar.google.com/citations?user=a_lzSPoAAAAJ&hl=en" class="social-link">
+      <i class="fas fa-graduation-cap"></i> Google Scholar
+    </a>
+    <a href="https://orcid.org/0009-0007-0884-715X" class="social-link">
+      <i class="fab fa-orcid"></i> ORCID
+    </a>
+    <a href="https://www.researchgate.net/profile/Om-Kathalkar-2" class="social-link">
+      <i class="fab fa-researchgate"></i> ResearchGate
+    </a>
+    <a href="https://openreview.net/profile?id=~Om_Kathalkar1" class="social-link">
+      <i class="fas fa-book-open"></i> OpenReview
+    </a>
+  </div>
+</div>
+
+<style>
+.social-links {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.social-link {
+  display: inline-flex;
+  align-items: center;
+  padding: 8px 16px;
+  background-color: #f8f9fa;
+  border-radius: 20px;
+  text-decoration: none;
+  color: #495057;
+  transition: all 0.3s ease;
+}
+
+.social-link:hover {
+  background-color: #e9ecef;
+  transform: translateY(-2px);
+  text-decoration: none;
+}
+
+.social-link i {
+  margin-right: 8px;
+}
+</style>
+
 ## Technical Skills
 - **Programming**: Python, C++, MATLAB, HTML
 - **Hardware**: Jetson Xavier NX, Raspberry Pi, Arduino, ESP-Series Microcontrollers
