@@ -116,8 +116,8 @@ Apart from this, I am an enthusiast of sports, particularly Cricket and Hocke
         This paper discusses the limitations of sensor-based methods in air quality estimation and introduces TRAQID - a novel image dataset for traffic-related air quality analysis. With over 27,000 multi-view images captured in Hyderabad, India, TRAQID addresses the scarcity of diverse datasets in this field. It offers insights into various environmental factors affecting air quality, aiding the development of more accurate estimation techniques.
       </p>
       <div class="publication-links">
-        <a href="https://github.com/omkathalkar/TRAQID-Traffic-Related-Air-Quality-Image-Dataset" class="button">Dataset</a>
-        <a href="https://rndshowcase.iiit.ac.in/tto2024/TTO_website_data/PDF/355.pdf" class="button">Poster</a>
+        <a href="https://github.com/omkathalkar/TRAQID-Traffic-Related-Air-Quality-Image-Dataset" class="button">DATASET</a>
+        <a href="https://rndshowcase.iiit.ac.in/tto2024/TTO_website_data/PDF/355.pdf" class="button">POSTER</a>
       </div>
       <div class="publication-year">2024</div>
     </div>
