@@ -15,6 +15,7 @@ redirect_from:
 My research interests encompass various domains, including Computer Vision, Generative AI, Environmental Sensing, Machine & Deep Learning, and the Internet of Things (IoT). 
 
 ### Recent Updates
+---
 
 <style type="text/css">
   .updates-container {
@@ -153,7 +154,7 @@ identifying industrial areas and busy roads as prominent sources.
     <div class="publication-content">
       <h3 class="publication-title">CV and IoT-based Remote Triggered Labs: Use Case of Conservation of Mechanical Energy</h3>
       <p class="publication-authors">
-        K. S. Viswanadh, <u>Om Kathalkar</u>, Nitin Nilesh,Sachin Chaudhari and Venkatesh Choppella
+        K. S. Viswanadh, <u>Om Kathalkar</u>, Nitin Nilesh, Sachin Chaudhari and Venkatesh Choppella
       </p>
       <p class="publication-details">
         <em>9th International Conference on Future Internet of Things and Cloud (FiCloud)</em>, Sep 2022
