@@ -103,11 +103,136 @@ Apart from this, I am an enthusiast of sports, particularly Cricket and Hocke
 ### Publications
 
 ---
+<div class="publication">
+  <!-- Publication 1 -->
+  <div class="publication-item">
+    <div class="publication-image">
+      <img src="hotstar-badminton.png" alt="Badminton Analysis">
+    </div>
+    <div class="publication-content">
+      <h3 class="publication-title">Towards Real-Time Analysis of Broadcast Badminton Videos</h3>
+      <p class="publication-authors">
+        Nitin Nilesh, <a href="#">Tushar Sharma</a>, <a href="#">Anurag Ghosh</a>, and <a href="#">C.V. Jawahar</a>
+      </p>
+      <p class="publication-details">
+        <em>Arxiv Preprint</em>, Oct 2023
+      </p>
+      <p class="publication-description">
+        An end-to-end framework for real-time badminton analysis, tested live in <a href="#">Premier Badminton League (PBL)</a>. Find the live broadcast by Hotstar showing the analysis <a href="#">here</a>.
+      </p>
+      <div class="publication-links">
+        <a href="#" class="button">ABS</a>
+        <a href="#" class="button">ARXIV</a>
+        <a href="#" class="button">HTML</a>
+        <a href="#" class="button">BLOG</a>
+        <a href="#" class="button">CODE</a>
+      </div>
+      <div class="publication-year">2023</div>
+    </div>
+  </div>
 
-|                       2024 | **Om Kathalkar**, Sachin Chaudhari et al., “TRAQID - Traffic-Related Air Quality Image Dataset”, Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP), Bangalore. |
-| --- | --- |
-|                       2023 | Spanddhana Sara, Andrew Rebeiro-Hargrave, **Om Kathalkar**, Sachin Chaudhari et al., “Protocol for Hunting PM2.5 Emission Hot Spots in Cities”, 1st International Workshop on Advances in Environmental Sensing Systems for Smart Cities (EnvSys ’23), Helsinki, Finland. |
-|                       2022 | K.S. Viswanadh, **Om Kathalkar**, Sachin Chaudhari et al. “CV and IoT-based Remote Triggered Labs: Use Case of Conservation of Mechanical Energy” at FiCloud 2022, Rome, Italy. |
+  <!-- Publication 2 
+  <div class="publication-item">
+    <div class="publication-image">
+      <img src="iot-aqi.png" alt="IoT AQI Estimation">
+    </div>
+    <div class="publication-content">
+      <h3 class="publication-title">IoT-based AQI Estimation using Image Processing and Learning Methods</h3>
+      <p class="publication-authors">
+        Nitin Nilesh, Ishan Patwardhan, Jayati Narang, and <a href="#">Sachin Chaudhari</a>
+      </p>
+      <p class="publication-details">
+        <em>IEEE 8th World Forum on Internet of Things (WF-IoT)</em>, Oct 2022
+      </p>
+      <p class="publication-description">
+        Winner of the <a href="#">Environmental Sensing Project Competition 2022</a>.
+      </p>
+      <div class="publication-links">
+        <a href="#" class="button">ABS</a>
+        <a href="#" class="button">PDF</a>
+        <a href="#" class="button">BLOG</a>
+        <a href="#" class="button">CODE</a>
+        <a href="#" class="button">WEBSITE</a>
+      </div>
+      <div class="publication-year">2022</div>
+    </div>
+  </div>
+</div> -->
+
+<style>
+.publication {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.publication-item {
+  display: flex;
+  border-bottom: 1px solid #e0e0e0;
+  padding: 20px 0;
+  position: relative;
+}
+
+.publication-image img {
+  width: 150px;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.publication-content {
+  margin-left: 20px;
+  flex: 1;
+}
+
+.publication-title {
+  font-size: 18px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.publication-authors {
+  font-size: 14px;
+  color: #666;
+}
+
+.publication-details {
+  font-size: 14px;
+  font-style: italic;
+  color: #999;
+}
+
+.publication-description {
+  font-size: 14px;
+  color: #333;
+  margin: 10px 0;
+}
+
+.publication-links .button {
+  font-size: 12px;
+  padding: 5px 10px;
+  border: 1px solid #333;
+  border-radius: 3px;
+  text-decoration: none;
+  color: #333;
+  margin-right: 5px;
+  display: inline-block;
+  transition: background 0.3s;
+}
+
+.publication-links .button:hover {
+  background: #333;
+  color: white;
+}
+
+.publication-year {
+  position: absolute;
+  right: 0;
+  top: 20px;
+  font-size: 24px;
+  color: #e0e0e0;
+  font-weight: bold;
+}
+</style>
 
 ### Featured Media
 <div class="text-center">
