@@ -14,12 +14,13 @@ redirect_from:
 
 My research interests encompass various domains, including Computer Vision, Generative AI, Environmental Sensing, Machine & Deep Learning, and the Internet of Things (IoT). 
 
+### Recent Updates
+
 <style type="text/css">
   .updates-container {
     font-family: Arial, sans-serif;
     max-width: 100%;
     line-height: 1.5;
-    font-size: 14px; /* Decreased font size by 1 */
   }
   .update {
     display: flex;
