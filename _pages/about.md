@@ -24,9 +24,16 @@ My research interests encompass various domains, including Computer Vision, Gene
   padding:11px 7px;word-break:normal;}
 .tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;
   overflow:hidden;padding:11px 7px;word-break:normal;}
-.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top; padding-right:10px;} /* Added padding for space */
+.tg .tg-7btt{
+  border-color:inherit;
+  font-weight:bold;
+  text-align:center;
+  vertical-align:top;
+  padding:15px 15px; /* Added padding for more space around the dates */
+}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 </style>
+
 <table class="tg"><tbody>
   <tr>
     <td class="tg-7btt">Oct 20, 2024</td>
