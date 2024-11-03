@@ -31,12 +31,13 @@ My research interests encompass various domains, including Computer Vision, Gene
   }
   .update-date {
     font-weight: bold;
-    min-width: 100px; /* Adjust as needed for more space */
-    text-align: left;
+    min-width: 120px; /* Adjusted for better alignment */
+    text-align: right; /* Align dates to the right */
     margin-right: 20px; /* Spacing between date and text */
   }
   .update-text {
     text-align: left;
+    max-width: 800px; /* Adjusted for a cleaner text layout */
   }
   .highlight {
     font-weight: bold;
@@ -47,11 +48,10 @@ My research interests encompass various domains, including Computer Vision, Gene
 </style>
 
 <div class="updates-container">
-
-<div class="update">
+  <div class="update">
     <div class="update-date">Oct 20, 2024</div>
     <div class="update-text">
-      My Paper “TRAQID - Traffic-Related Air Quality Image Dataset,” is accepted at the <a href="https://icvgip.in/">Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP)</a>, which will be presented at IIIT Bangalore.🥳:
+      My Paper “TRAQID - Traffic-Related Air Quality Image Dataset,” is accepted at the <a href="https://icvgip.in/">Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP)</a>, which will be presented at IIIT Bangalore. 🥳
     </div>
   </div>
 
@@ -65,35 +65,31 @@ My research interests encompass various domains, including Computer Vision, Gene
   <div class="update">
     <div class="update-date">Mar 7, 2024</div>
     <div class="update-text">
-      Our patent named <a href="https://patentcenter.uspto.gov/applications/18241852">System and Method for Implementing an Experiment Remotely and Determining an Output Using a Computer Vision Model</a> accepted for publication at United States Patent and Trademark Office. 
+      Our patent named <a href="https://patentcenter.uspto.gov/applications/18241852">System and Method for Implementing an Experiment Remotely and Determining an Output Using a Computer Vision Model</a> accepted for publication at United States Patent and Trademark Office.
     </div>
   </div>
 
-<div class="update">
+  <div class="update">
     <div class="update-date">Apr 1, 2024</div>
     <div class="update-text">
-     Joined <a href="https://talentsprint.com">NSE TalentSprint</a> as a <b>Mentor</b>!
+      Joined <a href="https://talentsprint.com">NSE TalentSprint</a> as a <b>Mentor</b>!
     </div>
   </div>
 
-<div class="update">
+  <div class="update">
     <div class="update-date">Jul 15, 2023</div>
     <div class="update-text">
       Awarded <a href="https://ihub-data.ai/archives/blogs/5998/">iHub-Data Fellowship</a> for MS research and studies.
     </div>
   </div>
 
-<div class="update">
+  <div class="update">
     <div class="update-date">Dec 25, 2022</div>
     <div class="update-text">
       Winner at the <a href="https://www.helsinki.fi/en/researchgroups/ficore/events-and-activities/environmental-sensing-project-competition-2022">International Environmental Sensing Project Competition</a> held by the University of Helsinki, Finland.
     </div>
   </div>
-  
-
 </div>
-
-
 
 
 ### Teaching
