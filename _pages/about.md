@@ -115,17 +115,55 @@ Apart from this, I am an enthusiast of sports, particularly Cricket and Hocke
         <em><a href="https://icvgip.in/">15th Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP)</a></em> Oct 2024
       </p>
       <p class="publication-description">
-        This paper discusses the limitations of sensor-based
-methods in air quality estimation and introduces TRAQID - a novel image dataset for traffic-related air quality
-analysis. With over 27,000 multi-view images captured in Hyderabad, India, TRAQID addresses the scarcity of
-diverse datasets in this field. It offers insights into various environmental factors affecting air quality, aiding the
-development of more accurate estimation techniques.
+        This paper discusses the limitations of sensor-based methods in air quality estimation and introduces TRAQID - a novel image dataset for traffic-related air quality analysis. With over 27,000 multi-view images captured in Hyderabad, India, TRAQID addresses the scarcity of diverse datasets in this field. It offers insights into various environmental factors affecting air quality, aiding the development of more accurate estimation techniques.
       </p>
       <div class="publication-links">
         <a href="https://github.com/omkathalkar/TRAQID-Traffic-Related-Air-Quality-Image-Dataset" class="button">Dataset</a>
         <a href="https://rndshowcase.iiit.ac.in/tto2024/TTO_website_data/PDF/355.pdf" class="button">Poster</a>
       </div>
       <div class="publication-year">2024</div>
+    </div>
+  </div>
+
+  <!-- Publication 2 -->
+  <div class="publication-item">
+    <div class="publication-content">
+      <h3 class="publication-title">Smart Water Monitoring System for Optimized Resource Management</h3>
+      <p class="publication-authors">
+        Ritik Yelekar, <a href="https://nitinnilesh.github.io">Nitin Nilesh</a>, Sachin Chaudhari
+      </p>
+      <p class="publication-details">
+        <em>IEEE International Conference on IoT and Water Management</em>, Sep 2023
+      </p>
+      <p class="publication-description">
+        This paper presents a smart water monitoring system designed for efficient resource management. It uses IoT sensors and deep learning algorithms to analyze water usage patterns and predict future water needs. The system has been deployed in various residential complexes, showing significant improvements in water conservation and optimization of water distribution.
+      </p>
+      <div class="publication-links">
+        <a href="https://example.com/smart-water-system-dataset" class="button">Dataset</a>
+        <a href="https://example.com/smart-water-system-poster" class="button">Poster</a>
+      </div>
+      <div class="publication-year">2023</div>
+    </div>
+  </div>
+
+<!-- Publication 3 -->
+  <div class="publication-item">
+    <div class="publication-content">
+      <h3 class="publication-title">Smart Water Monitoring System for Optimized Resource Management</h3>
+      <p class="publication-authors">
+        Ritik Yelekar, <a href="https://nitinnilesh.github.io">Nitin Nilesh</a>, Sachin Chaudhari
+      </p>
+      <p class="publication-details">
+        <em>IEEE International Conference on IoT and Water Management</em>, Sep 2023
+      </p>
+      <p class="publication-description">
+        This paper presents a smart water monitoring system designed for efficient resource management. It uses IoT sensors and deep learning algorithms to analyze water usage patterns and predict future water needs. The system has been deployed in various residential complexes, showing significant improvements in water conservation and optimization of water distribution.
+      </p>
+      <div class="publication-links">
+        <a href="https://example.com/smart-water-system-dataset" class="button">Dataset</a>
+        <a href="https://example.com/smart-water-system-poster" class="button">Poster</a>
+      </div>
+      <div class="publication-year">2023</div>
     </div>
   </div>
 </div>
@@ -196,6 +234,7 @@ development of more accurate estimation techniques.
   font-weight: bold;
 }
 </style>
+
 
 ### Featured Media
 <div class="text-center">
