@@ -98,9 +98,9 @@ In addition to my research pursuits, I am passionate about education and mentori
 
 Apart from this, I am an enthusiast of sports, particularly Cricket and Hockey. Additionally, I enjoy engaging in cycling and running as part of my recreational pursuits.
 
-### Publications
-
+### [Publications](/_pages/publications.html)
 ---
+
 <div class="publication">
   <!-- Publication 1 -->
   <div class="publication-item">
