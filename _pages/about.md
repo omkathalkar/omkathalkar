@@ -253,12 +253,17 @@ identifying industrial areas and busy roads as prominent sources.
 
   <div class="media-item">
       <img src="https://mobility.iiit.ac.in/assets/img/blog/air_quality/air_quality.png" alt="AQI">
-      <p><a href="https://mobility.iiit.ac.in/air_quality-blog.php"></a>Air Quality Monitoring</p>
+      <p><a href="https://spcrc.iiit.ac.in/airiot/">Team AirIoT</a></p>
+    </div>  
+    
+  <div class="media-item">
+      <img src="https://mobility.iiit.ac.in/assets/img/blog/air_quality/air_quality.png" alt="AQI">
+      <p><a href="https://mobility.iiit.ac.in/air_quality-blog.php">IoT-Based AQI System</a></p>
     </div>  
 
   <div class="media-item">
-      <img src="https://www.e-yantra.org/img/logo.svg" alt="AQI">
-      <p><a href="https://www.youtube.com/watch?v=Q2Kjo67PI1s"></a>e-Yantra</p>
+      <img src="https://spcrc.iiit.ac.in/airiot/grouppicture.jpg" alt="AirIoT">
+      <p><a href="https://www.youtube.com/watch?v=Q2Kjo67PI1s">e-Yantra @IIT, Mumbai</a></p>
     </div>  
   
   </div>
