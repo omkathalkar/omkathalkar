@@ -242,6 +242,92 @@ identifying industrial areas and busy roads as prominent sources.
 
 
 ### Featured Media
+
+<!-- Featured Media Section -->
+<div class="featured-media-section">
+  <div class="media-grid">
+    <div class="media-item">
+      <img src="https://path-to-your-image1.jpg" alt="AI in Sports">
+      <p><a href="https://link-to-article-1.com">AI in Sports - How IIIT-H’s Research Is…</a></p>
+    </div>
+    <div class="media-item">
+      <img src="https://path-to-your-image2.jpg" alt="Times of India">
+      <p><a href="https://link-to-article-2.com">IIIT-H turns game-changer as AI makes inroa…</a></p>
+    </div>
+    <div class="media-item">
+      <img src="https://path-to-your-image3.jpg" alt="The Hindu">
+      <p><a href="https://link-to-article-3.com">IIIT-H successfully tests a prototype…</a></p>
+    </div>
+    <div class="media-item">
+      <img src="https://path-to-your-image4.jpg" alt="News Minute">
+      <p><a href="https://link-to-article-4.com">AI in Sports - How IIIT-Hyd’s research is…</a></p>
+    </div>
+    <div class="media-item">
+      <img src="https://path-to-your-image5.jpg" alt="Remote Triggered Lab">
+      <p><a href="https://link-to-article-5.com">IIIT-H’s Newest IoT Lab Lets You Conduct Real…</a></p>
+    </div>
+    <div class="media-item">
+      <img src="https://path-to-your-image6.jpg" alt="Deccan Chronicle">
+      <p><a href="https://link-to-article-6.com">IIIT team develops remote system to contr…</a></p>
+    </div>
+    
+  </div>
+</div>
+
+<!-- CSS for Featured Media Section -->
+<style>
+.featured-media-section {
+  color: #333;
+  text-align: center;
+  background-color: #f9f9f9; /* Light background for the entire section */
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.featured-media-section h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.media-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 20px;
+}
+
+.media-item {
+  background-color: #fff; /* Light background for individual media items */
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+  padding: 15px;
+  text-align: left;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.media-item img {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.media-item p {
+  margin-top: 10px;
+  font-size: 14px;
+}
+
+.media-item a {
+  color: #0073e6;
+  text-decoration: none;
+}
+
+.media-item a:hover {
+  text-decoration: underline;
+}
+</style>
+
+
 <div class="text-center">
   <div class="social-links">
     <a href="mailto:om.kathalkar@research.iiit.ac.in" class="social-link email-icon">
