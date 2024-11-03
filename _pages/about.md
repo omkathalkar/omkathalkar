@@ -252,7 +252,7 @@ identifying industrial areas and busy roads as prominent sources.
     </div>  
 
   <div class="media-item">
-      <img src="https://mobility.iiit.ac.in/assets/img/blog/air_quality/air_quality.png" alt="AQI">
+      <img src="https://spcrc.iiit.ac.in/airiot/grouppicture.jpg" alt="AQI">
       <p><a href="https://spcrc.iiit.ac.in/airiot/">Team AirIoT</a></p>
     </div>  
     
@@ -262,7 +262,12 @@ identifying industrial areas and busy roads as prominent sources.
     </div>  
 
   <div class="media-item">
-      <img src="https://spcrc.iiit.ac.in/airiot/grouppicture.jpg" alt="AirIoT">
+      <img src="https://blogs.iiit.ac.in/wp-content/uploads/2022/05/RTL-3.png" alt="RLabs">
+      <p><a href="https://blogs.iiit.ac.in/rtl/">IIITH’s Newest IoT Lab Lets You Conduct..</a></p>
+    </div>    
+
+  <div class="media-item">
+      <img src="https://www.e-yantra.org/assets/eyic/6.JPG" alt="e-yantra">
       <p><a href="https://www.youtube.com/watch?v=Q2Kjo67PI1s">e-Yantra @IIT, Mumbai</a></p>
     </div>  
   
