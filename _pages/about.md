@@ -107,7 +107,7 @@ Apart from this, I am an enthusiast of sports, particularly Cricket and Hocke
   <!-- Publication 1 -->
   <div class="publication-item">
     <div class="publication-image">
-      ![om]({{ site.url }}/images/IMG_6808.jpeg)
+      <img src="{{ site.url }}/images/IMG_6808.jpeg" alt="TRAQID">
     </div>
     <div class="publication-content">
       <h3 class="publication-title">TRAQID - Traffic-Related Air Quality Image Dataset</h3>
