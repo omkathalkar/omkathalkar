@@ -249,28 +249,8 @@ identifying industrial areas and busy roads as prominent sources.
     <div class="media-item">
       <img src="https://path-to-your-image1.jpg" alt="AI in Sports">
       <p><a href="https://link-to-article-1.com">AI in Sports - How IIIT-H’s Research Is…</a></p>
-    </div>
-    <div class="media-item">
-      <img src="https://path-to-your-image2.jpg" alt="Times of India">
-      <p><a href="https://link-to-article-2.com">IIIT-H turns game-changer as AI makes inroa…</a></p>
-    </div>
-    <div class="media-item">
-      <img src="https://path-to-your-image3.jpg" alt="The Hindu">
-      <p><a href="https://link-to-article-3.com">IIIT-H successfully tests a prototype…</a></p>
-    </div>
-    <div class="media-item">
-      <img src="https://path-to-your-image4.jpg" alt="News Minute">
-      <p><a href="https://link-to-article-4.com">AI in Sports - How IIIT-Hyd’s research is…</a></p>
-    </div>
-    <div class="media-item">
-      <img src="https://path-to-your-image5.jpg" alt="Remote Triggered Lab">
-      <p><a href="https://link-to-article-5.com">IIIT-H’s Newest IoT Lab Lets You Conduct Real…</a></p>
-    </div>
-    <div class="media-item">
-      <img src="https://path-to-your-image6.jpg" alt="Deccan Chronicle">
-      <p><a href="https://link-to-article-6.com">IIIT team develops remote system to contr…</a></p>
-    </div>
-    
+    </div>    
+        
   </div>
 </div>
 
