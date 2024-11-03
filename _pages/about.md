@@ -130,7 +130,7 @@ Apart from this, I am an enthusiast of sports, particularly Cricket and Hocke
     <div class="publication-content">
       <h3 class="publication-title">Protocol for hunting PM2.5 emission hot spots in cities</h3>
       <p class="publication-authors">
-        Spanddhana Sara, Andrew Rebeiro-Hargrave, **Om Kathalkar**, Samu Varjonen, Sachin Chaudhari and <a href="https://scholar.google.com/citations?user=UTRmf5MAAAAJ&hl=en">Sasu Tarkoma</a>
+        Spanddhana Sara, Andrew Rebeiro-Hargrave, <u>Om Kathalkar</u>u>, Samu Varjonen, Sachin Chaudhari and <a href="https://scholar.google.com/citations?user=UTRmf5MAAAAJ&hl=en">Sasu Tarkoma</a>
       </p>
       <p class="publication-details">
         <em>EnvSys '23: Proceedings of the 1st International Workshop on Advances in Environmental Sensing Systems for Smart Cities</em>, Jun 2023
@@ -156,7 +156,7 @@ identifying industrial areas and busy roads as prominent sources.
     <div class="publication-content">
       <h3 class="publication-title">CV and IoT-based Remote Triggered Labs: Use Case of Conservation of Mechanical Energy</h3>
       <p class="publication-authors">
-        K. S. Viswanadh, **Om Kathalkar**, Nitin Nilesh,Sachin Chaudhari and Venkatesh Choppella
+        K. S. Viswanadh, <u>Om Kathalkar</u>, Nitin Nilesh,Sachin Chaudhari and Venkatesh Choppella
       </p>
       <p class="publication-details">
         <em>9th International Conference on Future Internet of Things and Cloud (FiCloud)</em>, Sep 2022
