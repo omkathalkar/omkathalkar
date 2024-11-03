@@ -8,7 +8,7 @@ redirect_from:
 
 
 
-👋 Hi, my name is **Om,** I am an Applied AI Researcher working on the real-world problem statements, am a Research Scholar at [**Signal Processing and Communication Research Centre**](https://spcrc.iiit.ac.in). I am persuing **MS by Research** degree at [**International Institute of Information Technology, Hyderabad (IIIT Hyderabad).](https://www.iiit.ac.in)** I am working with [**Dr. Sachin Chaudhari**](https://faculty.iiit.ac.in/~sachin.c/) and [**Dr. Anoop Namboodiri**](https://faculty.iiit.ac.in/~anoop/).  
+👋 Hi, my name is **Om,** I am an Applied AI Researcher working on the real-world problem statements, am a Research Scholar at [**Signal Processing and Communication Research Centre**](https://spcrc.iiit.ac.in). I am persuing **MS by Research** degree at [International Institute of Information Technology, Hyderabad (IIIT Hyderabad).](https://www.iiit.ac.in) I am working with [**Dr. Sachin Chaudhari**](https://faculty.iiit.ac.in/~sachin.c/) and [**Dr. Anoop Namboodiri**](https://faculty.iiit.ac.in/~anoop/).  
 
 ### Research
 
