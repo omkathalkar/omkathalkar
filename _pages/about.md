@@ -128,19 +128,24 @@ Apart from this, I am an enthusiast of sports, particularly Cricket and Hocke
   <!-- Publication 2 -->
   <div class="publication-item">
     <div class="publication-content">
-      <h3 class="publication-title">Smart Water Monitoring System for Optimized Resource Management</h3>
+      <h3 class="publication-title">Protocol for hunting PM2.5 emission hot spots in cities</h3>
       <p class="publication-authors">
-        Ritik Yelekar, <a href="https://nitinnilesh.github.io">Nitin Nilesh</a>, Sachin Chaudhari
+        Spanddhana Sara, Andrew Rebeiro-Hargrave, **Om Kathalkar**, Samu Varjonen, Sachin Chaudhari and <a href="https://scholar.google.com/citations?user=UTRmf5MAAAAJ&hl=en">Sasu Tarkoma</a>
       </p>
       <p class="publication-details">
-        <em>IEEE International Conference on IoT and Water Management</em>, Sep 2023
+        <em>EnvSys '23: Proceedings of the 1st International Workshop on Advances in Environmental Sensing Systems for Smart Cities</em>, Jun 2023
       </p>
       <p class="publication-description">
-        This paper presents a smart water monitoring system designed for efficient resource management. It uses IoT sensors and deep learning algorithms to analyze water usage patterns and predict future water needs. The system has been deployed in various residential complexes, showing significant improvements in water conservation and optimization of water distribution.
+        This paper discusses the development
+of a mobile-based protocol utilizing search agents to locate PM2.5 emission hot spots in cities, enhancing knowledge
+of air pollution’s health effects. Leveraged IoT devices and image processing to analyze variations in pollution levels,
+identifying industrial areas and busy roads as prominent sources.
       </p>
       <div class="publication-links">
-        <a href="https://example.com/smart-water-system-dataset" class="button">Dataset</a>
-        <a href="https://example.com/smart-water-system-poster" class="button">Poster</a>
+        <a href="https://dl.acm.org/doi/pdf/10.1145/3597064.3597322" class="button">PDF</a>
+        <a href="https://dl.acm.org/doi/10.1145/3597064.3597322" class="button">HTML</a>
+        <a href="https://ieee-dataport.org/documents/airiot-iot-based-air-pollution-monitoring" class="button">Dataset</a>
+        <a href="https://spcrc.iiit.ac.in/air/" class="button">WEBSITE</a>
       </div>
       <div class="publication-year">2023</div>
     </div>
@@ -149,21 +154,22 @@ Apart from this, I am an enthusiast of sports, particularly Cricket and Hocke
 <!-- Publication 3 -->
   <div class="publication-item">
     <div class="publication-content">
-      <h3 class="publication-title">Smart Water Monitoring System for Optimized Resource Management</h3>
+      <h3 class="publication-title">CV and IoT-based Remote Triggered Labs: Use Case of Conservation of Mechanical Energy</h3>
       <p class="publication-authors">
-        Ritik Yelekar, <a href="https://nitinnilesh.github.io">Nitin Nilesh</a>, Sachin Chaudhari
+        K. S. Viswanadh, **Om Kathalkar**, Nitin Nilesh,Sachin Chaudhari and Venkatesh Choppella
       </p>
       <p class="publication-details">
-        <em>IEEE International Conference on IoT and Water Management</em>, Sep 2023
+        <em>9th International Conference on Future Internet of Things and Cloud (FiCloud)</em>, Sep 2022
       </p>
       <p class="publication-description">
-        This paper presents a smart water monitoring system designed for efficient resource management. It uses IoT sensors and deep learning algorithms to analyze water usage patterns and predict future water needs. The system has been deployed in various residential complexes, showing significant improvements in water conservation and optimization of water distribution.
+        This paper discusses the use of Computer Vision (CV) in Remote Labs (RTL), which are useful for virtual laboratory experiments. The Conservation of Mechanical Energy experiment is used as a case study, where a CV-based approach is used to estimate an object’s velocity. The CV-based implementation is found to be more accurate, with a mean-squared error (MSE) nearly 10 times better than the IR-based implementation, and can be helpful for distance learning and during pandemics.
       </p>
       <div class="publication-links">
-        <a href="https://example.com/smart-water-system-dataset" class="button">Dataset</a>
-        <a href="https://example.com/smart-water-system-poster" class="button">Poster</a>
+        <a href="https://ieeexplore.ieee.org/abstract/document/9910543" class="button">PDF</a>
+        <a href="https://remote-labs.in" class="button">WEBSITE</a>
+        <a href="https://blogs.iiit.ac.in/rtl/" class="button">BLOG</a>
       </div>
-      <div class="publication-year">2023</div>
+      <div class="publication-year">2022</div>
     </div>
   </div>
 </div>
