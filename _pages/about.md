@@ -248,12 +248,17 @@ identifying industrial areas and busy roads as prominent sources.
   <div class="media-grid">
     <div class="media-item">
       <img src="https://www.iiit.ac.in/wp-content/uploads/2024/01/2023-28achievements.jpg" alt="Internatinal Winner">
-      <p><a href="https://www.iiit.ac.in/team-vayu-consisting-of-nitin-nilesh-ms-cse-sara-spandhana-ms-ece-om-kathalkar-and-shreyas-gujar-interns-college-research-affiliate-program-iot-from-spcrc-and-scrc-won-the-environment-se/">SPCRC won the Environment Sensing Project Competition..</a></p>
+      <p><a href="https://www.iiit.ac.in/team-vayu-consisting-of-nitin-nilesh-ms-cse-sara-spandhana-ms-ece-om-kathalkar-and-shreyas-gujar-interns-college-research-affiliate-program-iot-from-spcrc-and-scrc-won-the-environment-se/">Team Vayu won the Internatinal Environment Sensing Project Competition..</a></p>
     </div>  
 
-<div class="media-item">
-      <img src="https://www.iiit.ac.in/wp-content/uploads/2024/01/2023-28achievements.jpg" alt="Internatinal Winner">
-      <p><a href="https://www.iiit.ac.in/team-vayu-consisting-of-nitin-nilesh-ms-cse-sara-spandhana-ms-ece-om-kathalkar-and-shreyas-gujar-interns-college-research-affiliate-program-iot-from-spcrc-and-scrc-won-the-environment-se/">Team Vayu won the Internatinal Environment Sensing Project Competition..</a></p>
+  <div class="media-item">
+      <img src="https://mobility.iiit.ac.in/assets/img/blog/air_quality/air_quality.png" alt="AQI">
+      <p><a href="https://mobility.iiit.ac.in/air_quality-blog.php"></a>Air Quality Monitoring</p>
+    </div>  
+
+  <div class="media-item">
+      <img src="https://www.e-yantra.org/img/logo.svg" alt="AQI">
+      <p><a href="https://www.youtube.com/watch?v=Q2Kjo67PI1s"></a>e-Yantra</p>
     </div>  
   
   </div>
