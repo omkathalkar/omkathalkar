@@ -122,11 +122,8 @@ diverse datasets in this field. It offers insights into various environmental fa
 development of more accurate estimation techniques.
       </p>
       <div class="publication-links">
-        <a href="#" class="button">ABS</a>
-        <a href="#" class="button">ARXIV</a>
-        <a href="#" class="button">HTML</a>
-        <a href="#" class="button">BLOG</a>
-        <a href="#" class="button">CODE</a>
+        <a href="https://github.com/omkathalkar/TRAQID-Traffic-Related-Air-Quality-Image-Dataset" class="button">Dataset</a>
+        <a href="https://rndshowcase.iiit.ac.in/tto2024/TTO_website_data/PDF/355.pdf" class="button">Poster</a>
       </div>
       <div class="publication-year">2024</div>
     </div>
