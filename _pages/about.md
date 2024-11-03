@@ -107,18 +107,22 @@ Apart from this, I am an enthusiast of sports, particularly Cricket and Hocke
   <!-- Publication 1 -->
   <div class="publication-item">
     <div class="publication-image">
-      <img src="hotstar-badminton.png" alt="Badminton Analysis">
+      <img src="/images/500x300.png" alt="TRAQID">
     </div>
     <div class="publication-content">
-      <h3 class="publication-title">Towards Real-Time Analysis of Broadcast Badminton Videos</h3>
+      <h3 class="publication-title">TRAQID - Traffic-Related Air Quality Image Dataset</h3>
       <p class="publication-authors">
-        Nitin Nilesh, <a href="#">Tushar Sharma</a>, <a href="#">Anurag Ghosh</a>, and <a href="#">C.V. Jawahar</a>
+        Om Kathalkar, <a href="https://nitinnilesh.github.io">Nitin Nilesh</a>, Sachin Chaudhari, and Anoop Namboodiri
       </p>
       <p class="publication-details">
-        <em>Arxiv Preprint</em>, Oct 2023
+        <em><a href="https://icvgip.in/">15th Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP)</a></em> Oct 2024
       </p>
       <p class="publication-description">
-        An end-to-end framework for real-time badminton analysis, tested live in <a href="#">Premier Badminton League (PBL)</a>. Find the live broadcast by Hotstar showing the analysis <a href="#">here</a>.
+        This paper discusses the limitations of sensor-based
+methods in air quality estimation and introduces TRAQID - a novel image dataset for traffic-related air quality
+analysis. With over 27,000 multi-view images captured in Hyderabad, India, TRAQID addresses the scarcity of
+diverse datasets in this field. It offers insights into various environmental factors affecting air quality, aiding the
+development of more accurate estimation techniques.
       </p>
       <div class="publication-links">
         <a href="#" class="button">ABS</a>
@@ -127,11 +131,11 @@ Apart from this, I am an enthusiast of sports, particularly Cricket and Hocke
         <a href="#" class="button">BLOG</a>
         <a href="#" class="button">CODE</a>
       </div>
-      <div class="publication-year">2023</div>
+      <div class="publication-year">2024</div>
     </div>
   </div>
 
-  <!-- Publication 2 
+  <!-- Publication 2
   <div class="publication-item">
     <div class="publication-image">
       <img src="iot-aqi.png" alt="IoT AQI Estimation">
@@ -157,7 +161,7 @@ Apart from this, I am an enthusiast of sports, particularly Cricket and Hocke
       <div class="publication-year">2022</div>
     </div>
   </div>
-</div> -->
+</div>  -->
 
 <style>
 .publication {
