@@ -130,7 +130,7 @@ Apart from this, I am an enthusiast of sports, particularly Cricket and Hocke
     <div class="publication-content">
       <h3 class="publication-title">Protocol for hunting PM2.5 emission hot spots in cities</h3>
       <p class="publication-authors">
-        Spanddhana Sara, Andrew Rebeiro-Hargrave, <u>Om Kathalkar</u>u>, Samu Varjonen, Sachin Chaudhari and <a href="https://scholar.google.com/citations?user=UTRmf5MAAAAJ&hl=en">Sasu Tarkoma</a>
+        Spanddhana Sara, Andrew Rebeiro-Hargrave, <u>Om Kathalkar</u>, Samu Varjonen, Sachin Chaudhari and <a href="https://scholar.google.com/citations?user=UTRmf5MAAAAJ&hl=en">Sasu Tarkoma</a>
       </p>
       <p class="publication-details">
         <em>EnvSys '23: Proceedings of the 1st International Workshop on Advances in Environmental Sensing Systems for Smart Cities</em>, Jun 2023
@@ -165,7 +165,8 @@ identifying industrial areas and busy roads as prominent sources.
         This paper discusses the use of Computer Vision (CV) in Remote Labs (RTL), which are useful for virtual laboratory experiments. The Conservation of Mechanical Energy experiment is used as a case study, where a CV-based approach is used to estimate an object’s velocity. The CV-based implementation is found to be more accurate, with a mean-squared error (MSE) nearly 10 times better than the IR-based implementation, and can be helpful for distance learning and during pandemics.
       </p>
       <div class="publication-links">
-        <a href="https://ieeexplore.ieee.org/abstract/document/9910543" class="button">PDF</a>
+        <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9910543" class="button">PDF</a>
+        <a href="https://ieeexplore.ieee.org/document/9910543" class="button">HTML</a>
         <a href="https://remote-labs.in" class="button">WEBSITE</a>
         <a href="https://blogs.iiit.ac.in/rtl/" class="button">BLOG</a>
       </div>
