@@ -18,11 +18,39 @@ My research interests encompass various domains, including Computer Vision, Gene
 
 ---
 
-| **Oct 20, 2024** | My Paper titled **“TRAQID - Traffic-Related Air Quality Image Dataset” at [Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP)](https://icvgip.in/) which going to be held at IIIT Bangalore.** |
-| --- | --- |
-| **Jun 15, 2024** | I have awarded extended [**iHub-Data Fellowship](https://ihub-data.ai/archives/blogs/5998/) for MS Research.** |
-| **Mar 7, 2024** | Our patent named [*System and Method for Implementing an Experiment Remotely and Determining an Output Using a Computer Vision Model*](https://patentcenter.uspto.gov/applications/18241852) accepted for publication at United States Patent and Trademark Office 💡 |
-| **Jun 15, 2023** | I have awarded [**iHub-Data Fellowship](https://ihub-data.ai/archives/blogs/5998/) for MS Research.** |
+<style type="text/css">
+.tg  {border:none;border-collapse:collapse;border-spacing:0;}
+.tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;
+padding:10px 5px;word-break:normal;}
+.tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;
+overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 1549px"><colgroup>
+<col style="width: 199px">
+<col style="width: 1350px">
+</colgroup>
+<thead>
+<tr>
+<th class="tg-7btt">Oct 20, 2024</th>
+<th class="tg-0pky">My Paper titled “TRAQID - Traffic-Related Air Quality Image Dataset” at Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP)<br>which going to be held at IIIT Bangalore.</th>
+</tr></thead>
+<tbody>
+<tr>
+<td class="tg-7btt">Jun 15, 2024</td>
+<td class="tg-0pky">I have awarded extended iHub-Data Fellowship for MS Research.</td>
+</tr>
+<tr>
+<td class="tg-7btt">Mar 7, 2024</td>
+<td class="tg-0pky">Our patent named System and Method for Implementing an Experiment Remotely and Determining an Output Using a Computer Vision Model accepted for publication at United States Patent and Trademark Office 💡</td>
+</tr>
+<tr>
+<td class="tg-7btt">Jun 15, 2023</td>
+<td class="tg-0pky">I have awarded iHub-Data Fellowship for MS Research.</td>
+</tr>
+</tbody>
+</table>
 
 ### Teaching
 
