@@ -151,31 +151,31 @@ development of more accurate estimation techniques.
 }
 
 .publication-title {
-  font-size: 18px;
+  font-size: 16px;
   font-weight: bold;
   margin: 0;
 }
 
 .publication-authors {
-  font-size: 14px;
+  font-size: 12px;
   color: #666;
 }
 
 .publication-details {
-  font-size: 14px;
+  font-size: 12px;
   font-style: italic;
   color: #999;
 }
 
 .publication-description {
-  font-size: 14px;
+  font-size: 12px;
   color: #333;
   margin: 10px 0;
 }
 
 .publication-links .button {
-  font-size: 12px;
-  padding: 5px 10px;
+  font-size: 10px;
+  padding: 4px 8px;
   border: 1px solid #333;
   border-radius: 3px;
   text-decoration: none;
@@ -194,12 +194,11 @@ development of more accurate estimation techniques.
   position: absolute;
   right: 0;
   top: 20px;
-  font-size: 24px;
+  font-size: 20px;
   color: #e0e0e0;
   font-weight: bold;
 }
 </style>
-
 
 ### Featured Media
 <div class="text-center">
