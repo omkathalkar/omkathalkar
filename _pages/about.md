@@ -248,7 +248,14 @@ identifying industrial areas and busy roads as prominent sources.
   <div class="media-grid">
     <div class="media-item">
       <img src="https://www.iiit.ac.in/wp-content/uploads/2024/01/2023-28achievements.jpg" alt="Internatinal Winner">
-      <p><a href="https://www.iiit.ac.in/team-vayu-consisting-of-nitin-nilesh-ms-cse-sara-spandhana-ms-ece-om-kathalkar-and-shreyas-gujar-interns-college-research-affiliate-program-iot-from-spcrc-and-scrc-won-the-environment-se/">SPCRC and SCRC won the Environment Sensing Project Competition..</a></p>
+      <p><a href="https://www.iiit.ac.in/team-vayu-consisting-of-nitin-nilesh-ms-cse-sara-spandhana-ms-ece-om-kathalkar-and-shreyas-gujar-interns-college-research-affiliate-program-iot-from-spcrc-and-scrc-won-the-environment-se/">SPCRC won the Environment Sensing Project Competition..</a></p>
+    </div>  
+
+    <div class="featured-media-section">
+  <div class="media-grid">
+    <div class="media-item">
+      <img src="https://www.iiit.ac.in/wp-content/uploads/2024/01/2023-28achievements.jpg" alt="Internatinal Winner">
+      <p><a href="https://www.iiit.ac.in/team-vayu-consisting-of-nitin-nilesh-ms-cse-sara-spandhana-ms-ece-om-kathalkar-and-shreyas-gujar-interns-college-research-affiliate-program-iot-from-spcrc-and-scrc-won-the-environment-se/">SPCRC won the Environment Sensing Project Competition..</a></p>
     </div>    
         
   </div>
