@@ -8,20 +8,55 @@ redirect_from:
 
 
 
-👋 Hi, my name is **Om,** I am an Applied AI Researcher working on the real-world problem statements, am a Research Scholar at [**Signal Processing and Communication Research Centre**](https://spcrc.iiit.ac.in). I am persuing **MS by Research** degree at [**International Institute of Information Technology, Hyderabad (IIIT Hyderabad).](https://www.iiit.ac.in)** I am working with [**Dr. Sachin Chaudhari**](https://faculty.iiit.ac.in/~sachin.c/) and [**Dr. Anoop Namboodiri**](https://faculty.iiit.ac.in/~anoop/).  
+# Om Kathalkar  
+Applied AI Researcher | Research Scholar at [Signal Processing and Communication Research Centre](https://spcrc.iiit.ac.in)  
+Pursuing **MS by Research** at [IIIT Hyderabad](https://www.iiit.ac.in)  
 
-My research interests encompass various domains, including Computer Vision, Generative AI, Environmental Sensing, Machine & Deep Learning, and the Internet of Things (IoT). 
+**Advised by**: [Dr. Sachin Chaudhari](https://faculty.iiit.ac.in/~sachin.c/) and [Dr. Anoop Namboodiri](https://faculty.iiit.ac.in/~anoop/)
 
-### News
+---
 
-Oct 20, 2024	My Paper titled “TRAQID - Traffic-Related Air Quality Image Dataset” at Indian Conference on Computer Vision, Graphics and                  Image Processing (ICVGIP) which going to be held at IIIT Bangalore.
-Jun 15, 2024	I have awarded extended iHub-Data Fellowship for MS Research.
-Mar 7, 2024	  Our patent named System and Method for Implementing an Experiment Remotely and Determining an Output Using a Computer Vision                Model accepted for publication at United States Patent and Trademark Office 💡
-Jun 15, 2023	I have awarded iHub-Data Fellowship for MS Research.
+## Research Interests  
+Computer Vision | Generative AI | Environmental Sensing  
+Machine & Deep Learning | Internet of Things (IoT)  
 
-### Publications
+---
 
-### Featured Media
+## Latest Updates
+
+- **Oct 20, 2024**: Paper titled **“TRAQID - Traffic-Related Air Quality Image Dataset”** accepted at the [Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP)](https://icvgip.in/) at IIIT Bangalore.
+- **Jun 15, 2024**: Awarded extended [**iHub-Data Fellowship**](https://ihub-data.ai/archives/blogs/5998/) for MS Research.
+- **Mar 7, 2024**: Patent titled *“System and Method for Implementing an Experiment Remotely and Determining an Output Using a Computer Vision Model”* accepted at the United States Patent and Trademark Office 💡 [Details](https://patentcenter.uspto.gov/applications/18241852)
+- **Jun 15, 2023**: Received [**iHub-Data Fellowship**](https://ihub-data.ai/archives/blogs/5998/) for MS Research.
+
+---
+
+## Teaching & Mentoring
+
+I am deeply committed to education and serve as a mentor at [TalentSprint](https://talentsprint.com/) for the [AI/ML Programme](https://talentsprint.com/course/ai-machine-learning-iiit-hyderabad) in collaboration with IIIT Hyderabad. In this capacity, I:
+
+- Deliver lectures on foundational Machine Learning and Deep Learning concepts.
+- Guide industry professionals through hands-on project work and provide mentorship.
+
+---
+
+## Publications
+
+- **2024**: Om Kathalkar, Sachin Chaudhari et al., “TRAQID - Traffic-Related Air Quality Image Dataset,” Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP), Bangalore.
+- **2023**: Spanddhana Sara, Andrew Rebeiro-Hargrave, **Om Kathalkar**, Sachin Chaudhari et al., “Protocol for Hunting PM2.5 Emission Hot Spots in Cities,” EnvSys ’23, Helsinki, Finland.
+- **2022**: K.S. Viswanadh, **Om Kathalkar**, Sachin Chaudhari et al., “CV and IoT-based Remote Triggered Labs: Use Case of Conservation of Mechanical Energy,” FiCloud 2022, Rome, Italy.
+
+---
+
+## Featured Media
+
+(Include any noteworthy media mentions or links, if available.)
+
+---
+
+## Beyond Research
+
+Apart from academic pursuits, I am passionate about sports like **Cricket** and **Hockey**. I also enjoy **cycling** and **running** to stay active and inspired.
 
 <div class="text-center">
   <div class="social-links">
