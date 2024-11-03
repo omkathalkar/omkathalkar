@@ -106,9 +106,6 @@ Apart from this, I am an enthusiast of sports, particularly Cricket and Hocke
 <div class="publication">
   <!-- Publication 1 -->
   <div class="publication-item">
-    <div class="publication-image">
-      <img src="{{ site.url }}/images/IMG_6808.jpeg" alt="TRAQID">
-    </div>
     <div class="publication-content">
       <h3 class="publication-title">TRAQID - Traffic-Related Air Quality Image Dataset</h3>
       <p class="publication-authors">
@@ -134,34 +131,7 @@ development of more accurate estimation techniques.
       <div class="publication-year">2024</div>
     </div>
   </div>
-
-  <!-- Publication 2
-  <div class="publication-item">
-    <div class="publication-image">
-      <img src="iot-aqi.png" alt="IoT AQI Estimation">
-    </div>
-    <div class="publication-content">
-      <h3 class="publication-title">IoT-based AQI Estimation using Image Processing and Learning Methods</h3>
-      <p class="publication-authors">
-        Nitin Nilesh, Ishan Patwardhan, Jayati Narang, and <a href="#">Sachin Chaudhari</a>
-      </p>
-      <p class="publication-details">
-        <em>IEEE 8th World Forum on Internet of Things (WF-IoT)</em>, Oct 2022
-      </p>
-      <p class="publication-description">
-        Winner of the <a href="#">Environmental Sensing Project Competition 2022</a>.
-      </p>
-      <div class="publication-links">
-        <a href="#" class="button">ABS</a>
-        <a href="#" class="button">PDF</a>
-        <a href="#" class="button">BLOG</a>
-        <a href="#" class="button">CODE</a>
-        <a href="#" class="button">WEBSITE</a>
-      </div>
-      <div class="publication-year">2022</div>
-    </div>
-  </div>
-</div>  -->
+</div>
 
 <style>
 .publication {
@@ -176,15 +146,7 @@ development of more accurate estimation techniques.
   position: relative;
 }
 
-.publication-image img {
-  width: 150px;
-  height: auto;
-  border-radius: 8px;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-}
-
 .publication-content {
-  margin-left: 20px;
   flex: 1;
 }
 
@@ -237,6 +199,7 @@ development of more accurate estimation techniques.
   font-weight: bold;
 }
 </style>
+
 
 ### Featured Media
 <div class="text-center">
