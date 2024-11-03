@@ -47,41 +47,52 @@ My research interests encompass various domains, including Computer Vision, Gene
 </style>
 
 <div class="updates-container">
+
+<div class="update">
+    <div class="update-date">Oct 20, 2024</div>
+    <div class="update-text">
+      My Paper “TRAQID - Traffic-Related Air Quality Image Dataset,” is accepted at the <a href="https://icvgip.in/">Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP)</a>, which will be presented at IIIT Bangalore.🥳:
+    </div>
+  </div>
+
+  <div class="update">
+    <div class="update-date">Jun 15, 2024</div>
+    <div class="update-text">
+      Honored with an extension of the <a href="https://ihub-data.ai/archives/blogs/5998/">iHub-Data Fellowship</a> for continued research excellence in MS studies.
+    </div>
+  </div>
+
   <div class="update">
     <div class="update-date">Mar 7, 2024</div>
     <div class="update-text">
-      Our patent named <span class="italic">System and Method for Implementing an Experiment Remotely and Determining an Output Using a Computer Vision Model</span> accepted for publication at United States Patent and Trademark Office 💡
+      Our patent named <a href="https://patentcenter.uspto.gov/applications/18241852">System and Method for Implementing an Experiment Remotely and Determining an Output Using a Computer Vision Model</a> accepted for publication at United States Patent and Trademark Office. 
+    </div>
+  </div>
+
+<div class="update">
+    <div class="update-date">Apr 1, 2024</div>
+    <div class="update-text">
+     Joined <a href="https://talentsprint.com">NSE TalentSprint</a> as a <b>Mentor</b>!
+    </div>
+  </div>
+
+<div class="update">
+    <div class="update-date">Jul 15, 2023</div>
+    <div class="update-text">
+      Awarded <a href="https://ihub-data.ai/archives/blogs/5998/">iHub-Data Fellowship</a> for MS research and studies.
+    </div>
+  </div>
+
+<div class="update">
+    <div class="update-date">Dec 25, 2022</div>
+    <div class="update-text">
+      Winner at the <a href="https://www.helsinki.fi/en/researchgroups/ficore/events-and-activities/environmental-sensing-project-competition-2022">International Environmental Sensing Project Competition</a> held by the University of Helsinki, Finland.
     </div>
   </div>
   
-  <div class="update">
-    <div class="update-date">Feb 20, 2024</div>
-    <div class="update-text">
-      Joined Harman as <span class="highlight">Generative AI Tech Lead</span>! 🎉
-    </div>
-  </div>
-  
-  <div class="update">
-    <div class="update-date">Jul 8, 2023</div>
-    <div class="update-text">
-      Defended my Master’s thesis titled <span class="italic">Learning Methods for IoT: Use Cases of Air Pollution Monitoring</span>.
-    </div>
-  </div>
-  
-  <div class="update">
-    <div class="update-date">Nov 1, 2022</div>
-    <div class="update-text">
-      Presented two Papers at WF-IoT 2022 titled <span class="italic">IoT-based AQI Estimation using Image Processing and Learning Methods</span> and <span class="italic">IoT and ML-based AQI Estimation using Real-time Traffic Data</span> 📡
-    </div>
-  </div>
-  
-  <div class="update">
-    <div class="update-date">Sep 27, 2021</div>
-    <div class="update-text">
-      Joined Qualcomm as <span class="highlight">Camera Modeling Engineer</span>! ✨
-    </div>
-  </div>
+
 </div>
+
 
 
 
