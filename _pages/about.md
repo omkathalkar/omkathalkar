@@ -14,11 +14,10 @@ My research interests encompass various domains, including Computer Vision, Gene
 
 ### News
 
-| **Oct 20, 2024** | My Paper titled **“TRAQID - Traffic-Related Air Quality Image Dataset” at [Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP)](https://icvgip.in) which going to be held at IIIT Bangalore.**  |
-| --- | --- |
-| **Jun 15, 2024** | I have awarded extended [**iHub-Data Fellowship](https://ihub-data.ai/archives/blogs/5998/) for MS Research.** |
-| **Mar 7, 2024** | Our patent named [*System and Method for Implementing an Experiment Remotely and Determining an Output Using a Computer Vision Model*](https://patentcenter.uspto.gov/applications/18241852) accepted for publication at United States Patent and Trademark Office 💡 |
-| **Jun 15, 2023** | I have awarded [**iHub-Data Fellowship](https://ihub-data.ai/archives/blogs/5998/) for MS Research.** |
+Oct 20, 2024	My Paper titled “TRAQID - Traffic-Related Air Quality Image Dataset” at Indian Conference on Computer Vision, Graphics and                  Image Processing (ICVGIP) which going to be held at IIIT Bangalore.
+Jun 15, 2024	I have awarded extended iHub-Data Fellowship for MS Research.
+Mar 7, 2024	  Our patent named System and Method for Implementing an Experiment Remotely and Determining an Output Using a Computer Vision                Model accepted for publication at United States Patent and Trademark Office 💡
+Jun 15, 2023	I have awarded iHub-Data Fellowship for MS Research.
 
 ### Publications
 
