@@ -98,7 +98,7 @@ In addition to my research pursuits, I am passionate about education and mentori
 
 Apart from this, I am an enthusiast of sports, particularly Cricket and Hockey. Additionally, I enjoy engaging in cycling and running as part of my recreational pursuits.
 
-### [Publications](/_pages/publications.html)
+### [Publications](https://omkathalkar.github.io/omkathalkar//publications/)
 ---
 
 <div class="publication">
